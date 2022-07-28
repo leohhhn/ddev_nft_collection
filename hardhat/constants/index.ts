@@ -1,5 +1,5 @@
-// Address of the Whitelist Contract that you deployed
-export const WHITELIST_CONTRACT_ADDRESS = "0x1c9865ECc227a67eD9712dE932353c26bD3cF9a3";
+// Address of the Whitelist Contract that you deployed on rinkeby
+export const WHITELIST_CONTRACT_ADDRESS = "0x82b53b7cc10fE26223FF7825fDC8B550768A9834";
 // URL to extract Metadata for a Crypto Dev NFT
 export const METADATA_URL = "https://ddev-nft-collection.vercel.app/api/";
 
